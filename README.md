@@ -3,6 +3,8 @@ Game reccomendation system using Steam API (https://www.kaggle.com/datasets/tamb
 
 
 # File Driectory:
+<!--
+
 GameRec
 |
 |__app.py
@@ -15,6 +17,8 @@ GameRec
 |
 |
 ...
+-->
+
 
 # Main functionalitites:
 
